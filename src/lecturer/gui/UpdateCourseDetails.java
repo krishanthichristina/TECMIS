@@ -24,10 +24,6 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.table.DefaultTableModel;
 import lecturer.Lecturer;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
 public class UpdateCourseDetails extends javax.swing.JFrame {
     
     private Lecturer lecturer;

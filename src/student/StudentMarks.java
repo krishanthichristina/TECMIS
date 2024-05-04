@@ -14,10 +14,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.table.DefaultTableModel;
-/**
- *
- * @author user
- */
+
 public class StudentMarks extends javax.swing.JFrame {
 
     private Student student;

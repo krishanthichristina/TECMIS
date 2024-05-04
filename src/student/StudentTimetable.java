@@ -25,10 +25,6 @@ import javax.swing.SwingConstants;
 import javax.swing.table.DefaultTableCellRenderer;
 import net.proteanit.sql.DbUtils;
 
-/**
- *
- * @author user
- */
 public class StudentTimetable extends javax.swing.JFrame {
 
     private Student student;

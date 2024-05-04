@@ -32,10 +32,6 @@ import javax.swing.Timer;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.text.Document;
 
-/**
- *
- * @author user
- */
 public class ViewAttendence extends javax.swing.JFrame implements TableManagement{
     
     PreparedStatement pst1 = null;

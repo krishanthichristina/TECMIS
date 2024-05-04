@@ -7,10 +7,6 @@ package student;
 
 import common.code.User;
 
-/**
- *
- * @author user
- */
 public class Student extends User{
     
 }

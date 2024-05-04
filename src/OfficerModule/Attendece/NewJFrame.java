@@ -4,10 +4,6 @@
  */
 package OfficerModule.Attendece;
 
-/**
- *
- * @author HP
- */
 public class NewJFrame extends javax.swing.JFrame {
 
     /**

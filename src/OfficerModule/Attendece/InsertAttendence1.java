@@ -19,10 +19,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 import OfficerModule.Attendece.Attendance;
-/**
- *
- * @author user
- */
+
 public class InsertAttendence1 extends javax.swing.JFrame implements TableManagement{
     
     

@@ -5,10 +5,6 @@
  */
 package lecturer;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
 public interface MarksOperations {
     
     public double calculateQuizAvg(String courseID, double quiz1, double quiz2, double quiz3, double quiz4);

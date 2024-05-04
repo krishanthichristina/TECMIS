@@ -14,10 +14,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author user
- */
 public class StudentAttendence extends javax.swing.JFrame {
 
     /** Creates new form StudentAttendence */

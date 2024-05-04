@@ -29,10 +29,6 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-/**
- *
- * @author user
- */
 public class EditProfile extends javax.swing.JFrame {
     PreparedStatement pst4 = null;
     

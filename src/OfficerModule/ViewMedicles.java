@@ -30,10 +30,6 @@ import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 import net.proteanit.sql.DbUtils;
 
-/**
- *
- * @author user
- */
 public class ViewMedicles extends javax.swing.JFrame {
       private MyDbConnector dbConnector; 
       Connection connection = null;

@@ -4,11 +4,6 @@
  */
 package OfficerModule.Attendece;
 
-/**
- *
- * @author HP
- */
-
 import java.util.Date;
 
 public class Attendance {

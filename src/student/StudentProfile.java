@@ -23,10 +23,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author user
- */
 public class StudentProfile extends javax.swing.JFrame {
 
     

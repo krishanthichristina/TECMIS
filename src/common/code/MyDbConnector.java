@@ -6,9 +6,9 @@ import java.sql.SQLException;
 
 public class MyDbConnector {
     private Connection myConnection = null;
-    private String url = "jdbc:mysql://localhost:3306/lmsdatabase03";
+    private String url = "jdbc:mysql://localhost:3306/msdatabase03";
     private String user = "root";
-    private String pw = "";
+    private String pw = "1234";
 
     private void registerMyConnection(){
         try {

@@ -18,10 +18,6 @@ import javax.swing.table.DefaultTableModel;
 import lecturer.Lecturer;
 import lecturer.MarksCalculations;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
 public class StudentMarks extends javax.swing.JFrame {
     
     private Lecturer lecturer;

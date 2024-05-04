@@ -29,10 +29,6 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.TransferHandler;
 
-/**
- *
- * @author user
- */
 public class InsertMedicles extends javax.swing.JFrame implements TableManagement{
     PreparedStatement pst4;
     //ResultSet rs1;

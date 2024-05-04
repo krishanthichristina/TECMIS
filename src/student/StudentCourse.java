@@ -16,10 +16,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author user
- */
 public class StudentCourse extends javax.swing.JFrame {
 
     

@@ -29,10 +29,6 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import lecturer.Lecturer;
 
-/**
- *
- * @author kavindu_Dilhara
- */
 public class UpdateLecturer extends javax.swing.JFrame {
     
     private Lecturer lecturer;

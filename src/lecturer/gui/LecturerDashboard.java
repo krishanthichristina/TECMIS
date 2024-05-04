@@ -22,10 +22,6 @@ import lecturer.Lecturer;
 import notice.GlassPanePopup;
 import notice.NoticeDatabase;
 
-/**
- *
- * @author kavin
- */
 public class LecturerDashboard extends javax.swing.JFrame implements DashboardOperation{
     
     private Lecturer lecturer;

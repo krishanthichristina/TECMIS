@@ -17,10 +17,6 @@ import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author HP
- */
 public class AttendenceSheet extends javax.swing.JFrame {
 
     private Officer officerAcc;

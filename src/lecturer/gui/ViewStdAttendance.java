@@ -18,10 +18,6 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import lecturer.Lecturer;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
 public class ViewStdAttendance extends javax.swing.JFrame {
     
     private Lecturer lecturer;

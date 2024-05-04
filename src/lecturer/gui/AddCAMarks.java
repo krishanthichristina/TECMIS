@@ -15,12 +15,6 @@ import java.sql.SQLIntegrityConstraintViolationException;
 import javax.swing.JOptionPane;
 import lecturer.Lecturer;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
-
-
 public class AddCAMarks extends javax.swing.JFrame {
     
     private Lecturer lecturer;

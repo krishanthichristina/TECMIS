@@ -14,10 +14,6 @@ import java.sql.Statement;
 import java.text.DecimalFormat;
 import java.util.Arrays;
 
-/**
- *
- * @author kavindu
- */
 public class MarksCalculations implements MarksOperations{
     
     private MyDbConnector dbConnector;

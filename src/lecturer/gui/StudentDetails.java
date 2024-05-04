@@ -26,10 +26,6 @@ import javax.swing.table.DefaultTableModel;
 import lecturer.Lecturer;
 //import org.apache.commons.dbutils.DbUtils;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
 public class StudentDetails extends javax.swing.JFrame {
 
     private Lecturer lecturer;

@@ -4,10 +4,6 @@
  */
 package OfficerModule.Attendece;
 
-/**
- *
- * @author HP
- */
 class JTable1 {
     
 }

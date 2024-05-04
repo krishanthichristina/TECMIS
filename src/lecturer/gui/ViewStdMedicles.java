@@ -27,10 +27,6 @@ import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 import lecturer.Lecturer;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
 public class ViewStdMedicles extends javax.swing.JFrame {
     
     private Lecturer lecturer;
@@ -45,7 +41,7 @@ public class ViewStdMedicles extends javax.swing.JFrame {
     String email = loggedUser.getEmail();
 
     /**
-     * Creates new form ViewMedicles
+     * Creates new form View Medicals
      */
     
     public ViewStdMedicles() {

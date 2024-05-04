@@ -6,10 +6,6 @@ package OfficerModule;
 
 import common.code.User;
 
-/**
- *
- * @author HP
- */
 public class Officer extends User{
     
 }

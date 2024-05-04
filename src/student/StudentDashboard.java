@@ -15,10 +15,6 @@ import javax.swing.JPanel;
 import notice.GlassPanePopup;
 import notice.NoticeDatabase;
 
-/**
- *
- * @author user
- */
 public class StudentDashboard extends javax.swing.JFrame implements DashboardOperation{
 
     private Student student;

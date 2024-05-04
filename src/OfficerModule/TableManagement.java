@@ -4,10 +4,6 @@
  */
 package OfficerModule;
 
-/**
- *
- * @author HP
- */
 public interface TableManagement {
      void Reset();
      void Insert();

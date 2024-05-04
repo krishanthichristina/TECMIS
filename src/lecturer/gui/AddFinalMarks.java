@@ -15,12 +15,6 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 import lecturer.Lecturer;
 
-/**
- *
- * @author Kavindu_Dilhara
- */
-
-
 public class AddFinalMarks extends javax.swing.JFrame {
     
     private Lecturer lecturer;

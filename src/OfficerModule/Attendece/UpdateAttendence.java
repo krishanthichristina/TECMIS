@@ -29,10 +29,6 @@ import javax.swing.JOptionPane;
 import javax.swing.Timer;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author user
- */
 public class UpdateAttendence extends javax.swing.JFrame  implements TableManagement{
     PreparedStatement pst4,pst3 = null;
     
